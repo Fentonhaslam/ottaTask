@@ -33,7 +33,7 @@ In the `data` folder there is an additional CSV file called `jobs.csv`. It conta
 
 **Task**: The similarity score between two companies is the number of users who like at least one job at both companies. Using both the `reactions.csv` and `jobs.csv` data, find the two companies with the highest similarity score.
 
-**Answer**: run node task2.js and you can see how close I got
+**Answer**: run node task2.js and you can see how close I got, I didn't compare the timestamps and relevance of a job_id so ended up with all the companies with closest scores. 
 
 ### Task 3
 
